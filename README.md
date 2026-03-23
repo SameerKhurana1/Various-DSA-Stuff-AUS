@@ -1,6 +1,6 @@
-# dsa-python 🧠
+# dsa-python
 
-A personal collection of Data Structures & Algorithms implemented in Python. Built and maintained as I go through my CS degree at AUS — part study reference, part proof I actually understand this stuff.
+A personal collection of Data Structures & Algorithms implemented in Python. Built and maintained as I go through my CS degree at AUS - part study reference, part proof I actually understand this stuff.
 
 Not a tutorial. Not copied from a textbook. Just clean implementations with my own notes.
 
@@ -40,6 +40,7 @@ dsa-python/
 | Trees | 🔜 Coming soon |
 | Graphs | 🔜 Coming soon |
 
+(Damn thats a Good Table right there)
 ---
 
 ## how I write these
@@ -59,4 +60,4 @@ python arrays/two_sum.py
 
 ---
 
-*This repo grows as I learn. Check back often.*
+*GxG Out*
