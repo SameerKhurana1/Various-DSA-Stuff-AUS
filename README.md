@@ -1,4 +1,4 @@
-# dsa-python
+# Data Structures & Algorithms
 
 A personal collection of Data Structures & Algorithms implemented in Python. Built and maintained as I go through my CS degree at AUS - part study reference, part proof I actually understand this stuff.
 
@@ -40,7 +40,6 @@ dsa-python/
 | Trees | 🔜 Coming soon |
 | Graphs | 🔜 Coming soon |
 
-(Damn thats a Good Table right there)
 ---
 
 ## how I write these
@@ -49,6 +48,7 @@ Every file follows the same pattern:
 - Clean implementation of the algorithm
 - Time & space complexity noted in comments
 - A quick example or test at the bottom so you can run it directly
+- Also W Table?
 
 ---
 
